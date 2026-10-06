@@ -1,0 +1,9 @@
+{
+  "name": "kerf-icons",
+  "version": "1.0.0",
+  "description": "300 minimal icons in 8 styles on a 24px grid.",
+  "keywords": ["icons", "svg", "icon-set", "ui"],
+  "author": "Gurudutt Badiger",
+  "license": "MIT",
+  "files": ["svg", "dist", "brand", "LICENSE", "README.md"]
+}
